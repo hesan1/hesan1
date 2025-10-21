@@ -20,19 +20,14 @@
 
 ### 💡 My Pinned Projects
 
-(This section will be a preview of your best work, which we'll pin next)
-
-1.  **[Project 1 Title]**: [1-sentence description of the project, e.g., "A multi-agent system for automated data analysis and visualization."]
-2.  **[Project 2 Title]**: [1-sentence description, e.g., "Fine-tuning T5 for high-accuracy question generation from technical documents."]
-3.  **[Project 3 Title]**: [1-sentence description, e.g., "An adaptive agentic tutoring system using LangChain."]
 
 ---
 
 ### 🔧 Tech Stack
 
-**Languages:** Python, SQL, JavaScript
+**Languages:** Python, SQL, C, C++, D, Flutter, Assembly,
 **AI/ML:** PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers
-**LLM/GenAI:** LangChain, OpenAI API, LLAMA, Vector Databases (e.g., ChromaDB, Pinecone)
+**LLM/GenAI:** LangChain, OpenAI API, LLAMA, Vector Databases 
 **Tools:** Docker, Git, n8n, FastAPI, AWS (basic)
 
 ---
@@ -40,13 +35,13 @@
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="[Your_LinkedIn_URL]" target="_blank">
+  <a href="[https://www.linkedin.com/in/hesan-shariati/]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:HesanShariati@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="[Your_Huggingface_URL]" target="_blank">
+  <a href="[[Your_Huggingface_URL](https://huggingface.co/HesanNoContent)]" target="_blank">
     <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   </a>
 </p>
