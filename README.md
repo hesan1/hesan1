@@ -4,17 +4,17 @@
 </h2>
 
 <p>
-  [cite_start]I'm an AI professional with 6+ years of programming experience, including 4 years specializing in machine learning, deep learning, and NLP[cite: 5]. [cite_start]My passion is building and deploying full-stack, end-to-end AI solutions, from experimental research to industrial-grade applications[cite: 6]. [cite_start]I thrive on solving complex problems and building novel, cutting-edge systems[cite: 7].
+  I'm an AI professional with 6+ years of programming experience, including 4 years specializing in machine learning, deep learning, and NLP. My passion is building and deploying full-stack, end-to-end AI solutions, from experimental research to industrial-grade applications. I thrive on solving complex problems and building novel, cutting-edge systems.
 </p>
 
 ---
 
 ### 🚀 My Core Expertise
 
--   [cite_start]**🤖 LLM-Powered Agentic Systems:** Architecting multi-agent AI systems using LangChain to orchestrate models (OpenAI, LLAMA, DeepSeek) for complex, automated tasks.
--   [cite_start]**🔥 Specialized Model Fine-Tuning:** Executing targeted fine-tuning on transformer models (T5, Phi-2, GPT-2) for specialized NLP tasks like high-accuracy question generation.
--   [cite_start]**🛠️ Full-Stack AI Applications:** Engineering full-stack MVPs that integrate AI agents into business workflows (e.g., automated data analysis and CRM integration)[cite: 19, 20].
--   [cite_start]**🧠 Classic Deep Learning:** Implementing sequential models (RNNs, LSTMs) for time series and CNNs (TensorFlow/PyTorch) for image classification.
+-   **🤖 LLM-Powered Agentic Systems:** Architecting multi-agent AI systems using LangChain to orchestrate models (OpenAI, LLAMA, DeepSeek) for complex, automated tasks.
+-   **🔥 Specialized Model Fine-Tuning:** Executing targeted fine-tuning on transformer models (T5, Phi-2, GPT-2) for specialized NLP tasks like high-accuracy question generation.
+-   **🛠️ Full-Stack AI Applications:** Engineering full-stack MVPs that integrate AI agents into business workflows (e.g., automated data analysis and CRM integration).
+-   **🧠 Classic Deep Learning:** Implementing sequential models (RNNs, LSTMs) for time series and CNNs (TensorFlow/PyTorch) for image classification.
 
 ---
 
